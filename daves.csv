@@ -1,8 +1,4 @@
-sn,name,age,add
-
-1,Ram,45,Kathmandu
-
-2,Shyam,34,Bhaktapur
-
-3,Hari,34,Lalitpur
-
+name,age,add
+Ram,45,Kathmandu
+Shyam,34,Bhaktapur
+Hari,34,Lalitpur
